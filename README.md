@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 About Me
 - 🚀 Web Developer  
-- 🎨 I care about clean, usable interfaces  
-- 🧠 Always learning new tech and improving  
+- 🎨 I care about clean, usable, and aesthetic interfaces  
+- 🧠 Always learning new technologies and improving my skills  
 - 🌍 Languages: Turkish · English  
 
 ---
@@ -38,23 +38,13 @@
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
-<p align="center">
-  <!-- Concepts -->
-  <img src="https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BUSRA_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUSRA_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Busra-Demirkesen&show_icons=true&theme=tokyonight&cache_seconds=7200" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Busra-Demirkesen&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 ---
@@ -67,9 +57,6 @@
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
