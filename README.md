@@ -1,5 +1,4 @@
-
-<h1 align="center">Hello! I'm [Your Name] 👋</h1>
+<h1 align="center">Hello! I'm Büşra Demirkesen 👋</h1>
 <p align="center">
   I build modern web experiences & never stop learning.<br>
   A passionate Web Developer focused on crafting responsive and accessible web apps.
@@ -8,15 +7,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🚀 Freelance / Junior Web Developer  
-- 🛍️ Built full-stack e-commerce & portfolio platforms  
-- 🎨 Passionate about UI/UX and functional design  
-- 🧠 Always learning new tech and leveling up my skills  
-- 🌍 Multilingual: English · Turkish · [Add more if you like]  
+- 🚀 Web Developer  
+- 🎨 I care about clean, usable interfaces  
+- 🧠 Always learning new tech and improving  
+- 🌍 Languages: Turkish · English  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
 `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Material UI` · `Bootstrap`
@@ -24,16 +22,16 @@
 **Tools & Services**  
 `Firebase` · `Stripe` · `Vercel` · `Netlify` · `Jest` · `React Testing Library`
 
-**Other Favorites**  
-Responsive Design · Web Accessibility · UI/UX · Serverless · REST APIs · React Hook Form · Zod · CI/CD · Optimization · State Management
+**Other Interests**  
+Responsive Design · Web Accessibility · UI/UX · REST APIs · State Management · CI/CD · Optimization
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BUSRA_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUSRA_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,14 +39,14 @@ Responsive Design · Web Accessibility · UI/UX · Serverless · REST APIs · Re
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/busra-demirkesen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
